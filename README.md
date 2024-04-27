@@ -1,5 +1,5 @@
 # Olá eu sou o Paulo Henrique Silveira.
-- 📚 Estudante no 3º de Ciência da Computação na Universidade federal de Lavras
+- 📚 Estudante no 3º período de Ciência da Computação na Universidade federal de Lavras
 - 🧰 Atualmente estudando C++
 - 📨 Contate-me no e-mail: paulo.silveira2@estudante.ufla.br
  
